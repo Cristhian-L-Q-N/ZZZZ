@@ -1,0 +1,26 @@
+.follow-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+
+.follow-container .ufa {
+    width: 40%;
+    height: 2.8em;
+    border-radius: 2em;
+    border: 2px solid #106feb;
+    text-indent: 1em;
+    font-style: italic;
+    color: azure;
+    margin-left: -7em;
+    background-color: #106feb;
+}
+
+.follow-container .s-icon {
+
+    width: 30px;
+    height: 30px;
+    margin-right: 2em;
+    margin-left: 2em;
+}

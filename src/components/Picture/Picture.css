@@ -1,0 +1,19 @@
+.profile-ufa {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid black;
+    position: relative;
+    left: 9.9em;
+    top: 1em;
+}
+
+.profile-ufa .s-icon {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
